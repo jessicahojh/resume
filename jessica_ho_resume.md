@@ -21,9 +21,9 @@ San Francisco, CA
 Built a full stack web application that allows users to learn more about the city. Users can learn about the various neighborhoods and discover “things to do.” The Yelp API is used to display the top 5 most popular restaurants in each neighborhood and the Google Maps API is used to mark the location of each tourist attraction. Users can even contribute their thoughts by creating an account to comment and rate.
 
 **Tech stack:** 
-**Front End** JavaScript, AJAX, JSON, jQuery, Jinja, HTML, CSS, Bootstrap 
-**Back End** Python, Flask, SQLAlchemy, PostgreSQL
-**APIs** Yelp API and Google Maps API
+ - Front End: JavaScript, AJAX, JSON, jQuery, Jinja, HTML, CSS, Bootstrap 
+ - Back End: Python, Flask, SQLAlchemy, PostgreSQL
+ - APIs: Yelp API and Google Maps API
 
 
 ## Experience:
@@ -52,6 +52,6 @@ Built a full stack web application that allows users to learn more about the cit
 _Software engineering program_
 
 **San Francisco State University**, December 2016
-BS, Business Administration - Finance 
+_BS, Business Administration - Finance_ 
 
 
