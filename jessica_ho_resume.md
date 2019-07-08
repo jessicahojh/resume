@@ -1,6 +1,6 @@
 ## Jessica Ho
 
-jessica.ho.jh@gmail.com 
+jessica.ho.jh@gmail.com  
 (415) 640-2623  
 San Francisco, CA  
 [Github](https://www.github.com/jessicahojh) | [LinkedIn](https://www.linkedin.com/in/jessicahojh/)
@@ -51,7 +51,7 @@ Built a full stack web application that allows users to learn more about the cit
 **Hackbright Academy**, January 2019 - March 2019  
 _Software engineering program_
 
-**San Francisco State University**, December 2016  
+**San Francisco State University**, December 2016   
 _BS, Business Administration - Finance_ 
 
 
